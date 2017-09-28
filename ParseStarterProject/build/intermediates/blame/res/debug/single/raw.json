@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/helenafranczak/Downloads/CleanUp/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/helenafranczak/.android/build-cache/ffa86970ca6f55b623d023593b2f37b9a71c23fd/output/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    }
+]
